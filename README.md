@@ -28,7 +28,7 @@ _El STACK tecnológico utilizado para el proyecto fue el siguiente:_
 
 ## Despliegue 🖇️
 
-Para el despliegue de la aplicación se utilizaron _Github-Pages_ y _Netlify_, a continuación se comparte el enlace de despliegue:
+Para el despliegue de la aplicación se utilizaron _Netlify_, a continuación se comparte el enlace de despliegue:
 
 [Heroes-SPA](https://jojo-heroes-app.netlify.app)
 
